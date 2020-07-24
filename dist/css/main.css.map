@@ -1,0 +1,16 @@
+{
+    "version": 3,
+    "mappings": "ACEA,iBAAiB;AAEjB,iBAAiB;AAQjB,iBAAiB;ACVjB,eAAe;AACf,AAAA,UAAU,CAAC;EACP,MAAM,EC8BqB,QAA6B,CD9BvC,IAAI;CACxB;;AEHD,uBAAuB;AAEvB,AAAA,IAAI,EAAE,CAAC,CAAC;EACJ,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB",
+    "sources": [
+        "../../sass/main.scss",
+        "../../sass/_tokens.scss",
+        "../../sass/_utilities.scss",
+        "../../node_modules/sass-rem/_rem.scss",
+        "../../sass/_globals.scss",
+        "../../node_modules/sass-rem/_rem.scss",
+        "../../sass/_fonts.scss",
+        "../../node_modules/sass-rem/_rem.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}

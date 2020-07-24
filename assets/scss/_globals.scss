@@ -1,0 +1,20 @@
+@import '../node_modules/sass-rem/rem';
+@import './tokens';
+
+/* Reseteo de reglas */
+
+html, * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: $secondary;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
