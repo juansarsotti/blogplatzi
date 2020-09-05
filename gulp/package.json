@@ -52,7 +52,7 @@
     "imagemin-pngquant": "^5.0.1",
     "jshint": "^2.9.5",
     "main-bower-files": "^2.13.1",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.13.1",
     "videogular": "^2.2.1"
   }
 }
